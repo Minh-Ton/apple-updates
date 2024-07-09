@@ -31,7 +31,7 @@
     "adm-zip": "^0.5.10",
     "axios": "^1.5.0",
     "discord-api-types": "^0.37.43",
-    "discord.js": "^13.16.0",
+    "discord.js": "^14.15.2",
     "dotenv": "^16.3.1",
     "firebase-admin": "^11.10.1",
     "minisearch": "^6.1.0",
