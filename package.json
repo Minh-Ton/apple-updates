@@ -34,7 +34,7 @@
     "discord.js": "^13.16.0",
     "dotenv": "^16.3.1",
     "firebase-admin": "^11.10.1",
-    "minisearch": "^6.1.0",
+    "minisearch": "^6.3.0",
     "plist": "^3.1.0",
     "pretty-bytes": "^5.6.0",
     "pretty-ms": "^7.0.1",
