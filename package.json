@@ -29,7 +29,7 @@
     "@discordjs/builders": "^1.6.4",
     "@discordjs/rest": "^1.7.1",
     "adm-zip": "^0.5.10",
-    "axios": "^1.5.0",
+    "axios": "^1.6.8",
     "discord-api-types": "^0.37.43",
     "discord.js": "^13.16.0",
     "dotenv": "^16.3.1",
